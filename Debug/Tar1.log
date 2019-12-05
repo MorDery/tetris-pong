@@ -1,0 +1,15 @@
+﻿  Ball.cpp
+c:\users\mor\desktop\מדעי המחשב\שנה ב\סמסטר א\c++\tar1\ex2_313433245_206337800\ball.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Board.cpp
+  PcBoard.cpp
+  UserBoard.cpp
+  Game.cpp
+  Gotoxy.cpp
+  KeyboardManager.cpp
+  main.cpp
+c:\users\mor\desktop\מדעי המחשב\שנה ב\סמסטר א\c++\tar1\ex2_313433245_206337800\main.cpp(242): warning C4129: ' ': unrecognized character escape sequence
+c:\users\mor\desktop\מדעי המחשב\שנה ב\סמסטר א\c++\tar1\ex2_313433245_206337800\main.cpp(244): warning C4129: '/': unrecognized character escape sequence
+  Screen.cpp
+  Utils.cpp
+  Generating Code...
+  Tar1.vcxproj -> C:\Users\mor\Desktop\מדעי המחשב\שנה ב\סמסטר א\C++\Tar1\Ex2_313433245_206337800\Debug\Tar1.exe
